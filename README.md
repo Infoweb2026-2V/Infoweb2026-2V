@@ -28,6 +28,6 @@ Ao longo do curso, exploramos diversas tecnologias para o desenvolvimento web. A
 
 Um agradecimento especial a todos os alunos da Turma 2V que estão ajudando a construir este repositório:
 
-<a href="https://github.com/DevWill-io"> <img src="will.jpeg"> Williams</a>
+<a href="https://github.com/DevWill-io"> <img src="img/will.png"> Williams</a>
 
 > **Orgulho de ser IFRN!** 📚🌐
